@@ -2,11 +2,15 @@
 
 A fashion website built using HTML, CSS, and JavaScript to showcase fashion products through a clean and visually appealing user interface.
 
-## 📌 Project Overview
+##  Project Overview
 
 KUMO is a frontend web development project designed to present a fashion brand online. It focuses on website layout, styling, images, and interactive elements.
 
-## ✨ Features
+## Live Demo
+
+[View KUMO Fashion Website](https://pradeep-231.github.io/fashion-website/)
+
+##  Features
 
 - Fashion-focused website design
 - Product and fashion image gallery
@@ -15,13 +19,13 @@ KUMO is a frontend web development project designed to present a fashion brand o
 - Interactive elements using JavaScript
 - Custom branding and logo
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Fashion-Website/
@@ -32,17 +36,17 @@ Fashion-Website/
 └── README.md
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
 3. Open `index.html` in your browser, or use the Live Server extension in VS Code.
 
-## 🎯 Project Goal
+##  Project Goal
 
 To practice frontend development skills by building a fashion website with structured HTML, styled layouts, images, and JavaScript interactions.
 
-## 👨‍💻 Author
+##  Author
 
 **Pradeep A**
 
